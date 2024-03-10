@@ -8,6 +8,6 @@ sources:
     tables:
       - name: STORE_SALES
         description: "Details about the sales in the store"
-  
+    
 
  
