@@ -1,10 +1,11 @@
-Welcome to your new dbt project!
+Welcome to my dbt project! In this project I built data models using dbt and Snowflake.  Dbt really makes data modelling and warehousing easier making the work of analysts way easier and error free. Have fun exploring my dbt project.
 
-### Using the starter project
+### Tools Used
 
-Try running the following commands:
-- dbt run
-- dbt test
+-dbt core
+-dbt cloud
+-Snowflake
+-Microsoft Azure
 
 
 ### Resources:
