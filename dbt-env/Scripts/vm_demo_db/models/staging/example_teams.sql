@@ -1,4 +1,9 @@
--- models/nba_team_names.sql
+
+--add query tag
+
+{{config(
+   query_tag = 'dbt_special'
+)}}
 
 -- Create a staging table to hold raw data 
 WITH raw_data AS (
